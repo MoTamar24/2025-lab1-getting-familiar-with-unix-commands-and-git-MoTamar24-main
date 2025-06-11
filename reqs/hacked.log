@@ -1,0 +1,6 @@
+ec2-18-117-176-211.us-east-2.compute.amazonaws.com:80 45.33.65.249 - - [15/Sep/2022:11:48:38 +0000] "GET /autodiscover/autodiscover.json?@abc.com/owa/?&Email=autodiscover/autodiscover.json%3F@abc.com HTTP/1.1" 301 770 "-" "curl/7.54.0"
+ec2-18-117-176-211.us-east-2.compute.amazonaws.com:80 45.33.65.249 - - [15/Sep/2022:11:48:38 +0000] "GET /owa HTTP/1.1" 301 586 "-" "Mozilla/5.0 (Exchange check)"
+ec2-18-117-176-211.us-east-2.compute.amazonaws.com:80 45.33.65.249 - - [15/Sep/2022:11:48:38 +0000] "GET / HTTP/1.1" 301 580 "-" "curl/7.54.0"
+ec2-18-117-176-211.us-east-2.compute.amazonaws.com:80 45.33.65.249 - - [15/Sep/2022:11:48:46 +0000] "POST /ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData HTTP/1.1" 301 820 "-" "curl/7.54.0"
+ec2-18-117-176-211.us-east-2.compute.amazonaws.com:80 45.33.65.249 - - [15/Sep/2022:11:48:58 +0000] "GET /dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/ HTTP/1.1" 400 524 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+ec2-18-117-176-211.us-east-2.compute.amazonaws.com:80 45.33.65.249 - - [15/Sep/2022:11:48:58 +0000] "GET /logon/LogonPoint/tmindex.html HTTP/1.1" 301 638 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"

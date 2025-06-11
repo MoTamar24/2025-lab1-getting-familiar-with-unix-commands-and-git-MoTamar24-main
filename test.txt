@@ -1,0 +1,10 @@
+this file contains some words to illustrate Unix commands (see the slides)
+the
+the
+this
+these
+there
+anthem
+theme
+brother
+theories
